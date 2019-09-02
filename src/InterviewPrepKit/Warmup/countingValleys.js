@@ -13,6 +13,4 @@ export default function countingValleys(n, s) {
     }
   }
   return numValleys;
-
-
 }
